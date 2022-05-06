@@ -5,8 +5,8 @@
 
 #### We can hide anything, even code!
 
-    ```python
-      print("Hello World")
+    ```
+      print("This project is fully base on tkinter module. So you don't have to worry about any other module :D")
     ```
 
 </p>
