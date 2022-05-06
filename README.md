@@ -5,7 +5,7 @@
 
 #### We can hide anything, even code!
 
-    ```ruby
+    ```python
       print("Hello World")
     ```
 
